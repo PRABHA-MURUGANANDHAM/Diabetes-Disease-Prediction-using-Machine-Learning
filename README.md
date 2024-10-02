@@ -2,19 +2,11 @@ Project Overview
 This project aims to develop a predictive model for diabetes diagnosis using machine learning techniques. By leveraging a Support Vector Machine (SVM) algorithm, we analyze health data to determine the likelihood of a patient having diabetes. The goal is to provide an efficient tool for early detection, which can aid healthcare professionals in making informed decisions.
 
 Table of Contents
-Introduction
-Dataset
-Model Implementation
-Results
-Installation
-Usage
-Conclusion
-License
-Introduction
-Diabetes is a chronic disease that affects millions of people worldwide. Early detection is crucial for effective management and treatment. This project utilizes machine learning, specifically the SVM algorithm, to predict the likelihood of diabetes based on various health metrics.
 
-Dataset
-The dataset used for this project is the Pima Indians Diabetes Database, which contains several medical predictor variables and one target variable indicating whether a patient has diabetes. Key features include:
+*Introduction
+*Dataset
+*Model Implementation
+*Results
 
 Glucose level
 Blood pressure
